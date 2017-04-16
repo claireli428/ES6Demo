@@ -1,0 +1,20 @@
+{
+  "name": "es6demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "babel demo/let_const/index.js -o compile.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claireli428/ES6Demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claireli428/ES6Demo/issues"
+  },
+  "homepage": "https://github.com/claireli428/ES6Demo#readme"
+}
